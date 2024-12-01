@@ -6,10 +6,15 @@ A simple Python application for real-time facial emotion detection using a webca
 Real-time emotion detection using webcam.
 
 Supports multiple emotions:
-Happiness (Smiling, laughing, joyful expressions)
-Sadness (Frowning, drooping mouth, tears)
-Anger (Furrowed brows, clenched jaw, glaring)
-Surprise (Wide eyes, raised eyebrows, open mouth)
-Fear (Wide eyes, tense face, open mouth or lips drawn back)
-Disgust (Wrinkled nose, raised upper lip, squinting eyes)
-Neutral (Relaxed face, no pronounced expression)
+Happiness (Smiling, laughing, joyful expressions),
+Sadness (Frowning, drooping mouth, tears),
+Anger (Furrowed brows, clenched jaw, glaring),
+Surprise (Wide eyes, raised eyebrows, open mouth),
+Fear (Wide eyes, tense face, open mouth or lips drawn back),
+Disgust (Wrinkled nose, raised upper lip, squinting eyes),
+Neutral (Relaxed face, no pronounced expression),
+
+
+
+Run the application:
+python facial_expression.py
